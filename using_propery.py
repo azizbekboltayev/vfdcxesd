@@ -11,4 +11,4 @@ class Person:
     @property
     def age(self):
         return 2024 - self.b_year
-p1 = Person("Azizbek", "Boltaev", 2004)
+p1 = Person("Azizbek", "Boltayev", 2004)
